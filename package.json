@@ -1,7 +1,7 @@
 {
   "name": "com.elfenlabs.events",
   "version": "0.0.1",
-  "displayName": "ECS Event System",
+  "displayName": "ElfenLabs Event System",
   "description": "ECS Event System",
   "unity": "6000.0",
   "unityRelease": "37f1",
